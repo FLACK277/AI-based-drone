@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Disaster Response Drone - Complete Vision-Based System (GPS-Free)
-Single file implementation with all AI modules integrated
-Author: AI Assistant
-Date: September 2025
-"""
-
 import numpy as np
 import cv2
 import time
